@@ -294,9 +294,9 @@ center:hover{
         flex-direction: column;
         gap: 1rem;
     }
-    center{
-       display: none;
-    }
+    .footersection>h5{
+    font-size:15px;
+}
 
 }
 
@@ -350,8 +350,9 @@ center:hover{
         flex-direction: column;
         gap: 1rem;
     }
-    center{
-       display: none;
-    }
-
+       .footersection>h5{
+    font-size:15px;
+}
+    
+    
 }
